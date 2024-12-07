@@ -7,6 +7,7 @@ Sou um **Analista de qualidade Senior** com mais de 13 anos de experiência em t
 - 💻 **Tecnologias**: Node.js, TypeScript, Python, Docker, AWS, Azure, Kafka
 - 🛠 **Ferramentas**: Git, Docker, Jenkins, Kubernetes, CI/CD
 - 💡 **Metodologias**: Scrum, Kanban
+- 🛠 **Frameworks**: Cypress, Playwright, Robotframework, Ruby+Capybara, k6, Jmeter
 - 🔍 **Áreas de interesse**: Arquitetura de sistemas, escalabilidade, otimização de performance, automação de testes
 
 ## 📫 Como me encontrar
